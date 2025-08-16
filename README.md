@@ -1,2 +1,1 @@
-# eRent-website
--eRent---Online-Equipment-Rental-Platform-eRent---Online-Equipment-Rental-Platform
+This is the MySQL relational table for my eRent website.
